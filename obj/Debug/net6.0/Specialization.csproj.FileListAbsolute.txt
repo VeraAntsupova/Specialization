@@ -1,0 +1,15 @@
+/Users/veraantsupova/GeekBrains/Specialization/bin/Debug/net6.0/Specialization
+/Users/veraantsupova/GeekBrains/Specialization/bin/Debug/net6.0/Specialization.deps.json
+/Users/veraantsupova/GeekBrains/Specialization/bin/Debug/net6.0/Specialization.runtimeconfig.json
+/Users/veraantsupova/GeekBrains/Specialization/bin/Debug/net6.0/Specialization.dll
+/Users/veraantsupova/GeekBrains/Specialization/bin/Debug/net6.0/Specialization.pdb
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.csproj.AssemblyReference.cache
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.AssemblyInfoInputs.cache
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.AssemblyInfo.cs
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.csproj.CoreCompileInputs.cache
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.dll
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/refint/Specialization.dll
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.pdb
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/Specialization.genruntimeconfig.cache
+/Users/veraantsupova/GeekBrains/Specialization/obj/Debug/net6.0/ref/Specialization.dll
